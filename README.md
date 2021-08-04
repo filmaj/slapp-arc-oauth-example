@@ -117,7 +117,11 @@ down to Redirect URLs and add the domain name where your app was deployed. Using
 our above example, you would add
 `https://someid.execute-api.us-west-2.amazonaws.com` as a redirect URL.
 
-Give it a shot! Invite your app to a channel, and then post a message to that
+OK, we are ready to install the app! Head over to your deployed app URL and
+click the Add To Slack button. Allow the app to be installed and you should be
+redirected back to your app and shown a simple Welcome page.
+
+Finally, give the app a shot! Invite your app to a channel, and then post a message to that
 channel with an at-mention of your bot. The bot should answer you inside the
 thread.
 
